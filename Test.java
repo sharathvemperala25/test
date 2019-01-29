@@ -3,6 +3,7 @@ class Test{
 	System.out.print("Hi");
 	int i;
 	int x;
+	int z;
 }
 
 }
